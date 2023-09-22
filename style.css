@@ -5,7 +5,11 @@
 }
 
 button {
-    background-color: rgb(50, 161, 50);
+    background: rgb(50, 161, 50);
     border-radius: 25px;
     padding: 15px;
+    border: 1px solid #5102ac;
+    color: white;
+    cursor: pointer;
+    margin: 30px;
 }
